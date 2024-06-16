@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abolfazl
 - 👀 I’m interested in Learning and working with others.
 - 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram:@Plague_G
 
 <!---
