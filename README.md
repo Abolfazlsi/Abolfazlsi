@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interesting in learning.<br>I like do project and work with others.
+I'm Backend Developer(python, Django).<br>I like do project and work with others.
 
 
 ## 🌐 Socials:
